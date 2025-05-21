@@ -1,8 +1,9 @@
 # Joel TERMONDJIAN
- Ingénieur logiciel | Portfolio : [ yourportfolio.github.io ]( https://yourportfolio.github.io ) 
+ Data Scientist | Portfolio : [ yourportfolio.github.io ]( https://yourportfolio.github.io ) 
 
 ## Résumé
- 1 à 2 phrases résumant votre expérience professionnelle et votre expertise 
+ Après 20 ans de carrière dans la banque dans les domaines privés et professionnels, j'ai décidé de me reconvertir dans le domaine de la data.
+ Après une formation intensive faite avec Jedha Bootcamp, j'ai acquis les compétences nécessaires à l'accomplissement de mon projet. 
 
 ## Compétences 
 - Langages de programmation : Python, JavaScript, etc. 
