@@ -1,13 +1,12 @@
-titre :  Joël TERMONDJIAN
+titre :  Joel TERMONDJIAN
 
 logo :  1. png  # Utilisez un chemin relatif vers l'image du logo 
 
-description :  Science des données
-
-thème :  jekyll-theme-minimal 
-
+description :  Science des données  et IA en agriculture - où les octets et la botanique se mélangent pour un monde meilleur . 
+# Corriger la césure show_downloads : true 
+# Corriger l'orthographe 
+thème : jekyll-theme-minimal 
 plugins :
-  - jekyll-seo-tag
-
-SEO email : joel.termondjian@hotmail.com               
-
+  - jekyll-seo-tag 
+  # Ajouter un plugin 
+SEO email : joel.termondjian@hotmail.com              
