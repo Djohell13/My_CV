@@ -6,7 +6,8 @@ description :  Science des données
 
 thème :  jekyll-theme-minimal 
 
-plugins :  - jekyll-seo-tag
+plugins :
+  - jekyll-seo-tag
 
 SEO email : joel.termondjian@hotmail.com               
 
