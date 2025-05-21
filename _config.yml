@@ -1,1 +1,12 @@
+titre :  Joël TERMONDJIAN
+
+logo :  1. png  # Utilisez un chemin relatif vers l'image du logo 
+
+description :  Science des données
+
+thème : jekyll-theme-minimal 
+
+plugins : - jekyll-seo-tag
+
+SEO email : joel.termondjian@hotmail.com               
 
