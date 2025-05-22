@@ -39,5 +39,9 @@ Conseiller de vente / Aix Les Milles
 - Réalisation 
 
 ## Éducation 
-**Diplôme** | Nom de l'université | Date d'obtention du diplôme 
+**Diplôme** | Jedha Bootcamp | 2025 
+**Formation Responsable Clientèle Professionnelle** | La Banque Postale | 2017 
+**BTS Banque** | FormaPoste/Lycée Saint Exupéry | 2006 
+**DUT Techniques de Commercialisation** | IUT Aix En Provence | 2004 
+**Baccalauréat Sciences et Technologies Tertiaires** | Lycée International Georges Duby | 2002 
 Cours, activités ou autres détails
