@@ -18,11 +18,16 @@ Responsable De clientèle Professionnelle / Arles
 - Conquête de nouveaux clients, prospection, digitalisation de flux
 - Gestion du risque, conformité et KYC
 
-**La Banque Postale** Septembre 2006 à Août 2017 
-Conseiller Financier
+**La Banque Postale** Juin 2006 à Août 2017 
+Conseiller Financier / Arles / Tarascon / Châteaurenard / Mollégès / Eyguières
 - Gestion et développement de portefeuille sur multi-sites
 - Gain de nombreux challenges : placements diversifiés, crédits...
 - Gestion du risque et KYC
+
+**Micromania** Novembre 2005 à Février 2006
+Conseiller de vente / Aix Les Milles
+- Vente de produits et services vidéo-ludiques
+- Lancement de la Nintendo DS : 1er magasin en France sur les réservations
 
 ## Projets 
 **Projet 1** (lien vers le site du projet ou le dépôt GitHub)   
