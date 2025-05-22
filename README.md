@@ -16,9 +16,10 @@
 Responsable De clientèle Professionnelle / Arles
 - Financement de fonds de commerce, patientèles et murs commerciaux
 - Conquête de nouveaux clients, digitalisation de flux
+- Gestion du risque, conformité et KYC
 
-**Nom de l'entreprise** (Dates) 
-Intitulé du poste 
+**La Banque Postale** Septembre 2006 à Août 2017 
+Conseiller Financier
 - Réalisation 1 
 - Réalisation 2 
 
