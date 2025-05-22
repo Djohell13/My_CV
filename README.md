@@ -12,8 +12,8 @@
 - Outils et méthodes : Git, Agile, TDD, etc. 
 
 ## Expérience 
-**Nom de l'entreprise** (Dates)    
-Responsable De clientèle Professionnelle / Banque Postale / Arles / Sep.2017 à Jan. 2025
+**La Banque Postale** Septembre 2017 à Janvier 2025    
+Responsable De clientèle Professionnelle / Arles
 - Financement de fonds de commerce, patientèles et murs commerciaux
 - Conquête de nouveaux clients, digitalisation de flux
 
