@@ -15,13 +15,14 @@
 **La Banque Postale** Septembre 2017 à Janvier 2025    
 Responsable De clientèle Professionnelle / Arles
 - Financement de fonds de commerce, patientèles et murs commerciaux
-- Conquête de nouveaux clients, digitalisation de flux
+- Conquête de nouveaux clients, prospection, digitalisation de flux
 - Gestion du risque, conformité et KYC
 
 **La Banque Postale** Septembre 2006 à Août 2017 
 Conseiller Financier
-- Réalisation 1 
-- Réalisation 2 
+- Gestion et développement de portefeuille sur multi-sites
+- Gain de nombreux challenges : placements diversifiés, crédits...
+- Gestion du risque et KYC
 
 ## Projets 
 **Projet 1** (lien vers le site du projet ou le dépôt GitHub)   
