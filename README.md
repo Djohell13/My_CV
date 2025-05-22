@@ -19,6 +19,7 @@ Responsable De clientèle Professionnelle / Arles
 - Gestion du risque, conformité et KYC
 
 **La Banque Postale** Juin 2006 à Août 2017 
+
 Conseiller Financier / Arles / Tarascon / Châteaurenard / Mollégès / Eyguières
 - Gestion et développement de portefeuille sur multi-sites
 - Gain de nombreux challenges : placements diversifiés, crédits...
