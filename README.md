@@ -17,8 +17,8 @@ J’utilise la data et l’automatisation pour transformer des données brutes e
 
 ## 🚀 Projets Data
 
-### 🔥 Prévision du risque incendie – Corse
-🔗 https://huggingface.co/spaces/Djohell/projet-final-lead
+#### 🔥 Prévision du risque incendie – Corse
+🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/projet-final-lead)
 
 **Objectif métier**  
 Anticiper le risque incendie à partir de données environnementales.
@@ -36,8 +36,8 @@ Anticiper le risque incendie à partir de données environnementales.
 
 ---
 
-### 🚗 Get Around — Étude d’impact & déploiement
-🔗 https://huggingface.co/spaces/Djohell/get_around_dashboard
+#### 🚗 Get Around — Étude d’impact & déploiement
+🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/get_around_dashboard)
 
 **Objectif métier**  
 Évaluer l’impact de règles produit sur les retards utilisateurs.
@@ -52,8 +52,8 @@ Anticiper le risque incendie à partir de données environnementales.
 
 ---
 
-### 🚕 Clustering de trajets UBER — New York
-🔗 https://huggingface.co/spaces/Djohell/Clustering_UBER
+#### 🚕 Clustering de trajets UBER — New York
+🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Clustering_UBER)
 
 **Objectif**  
 Identifier des segments d’usage à partir de trajets clients.
