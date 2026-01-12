@@ -1,115 +1,106 @@
 # Joel TERMONDJIAN
 ## Data Analyst / Data Engineer
 
-Ancien professionnel de la banque (20 ans), reconverti en data.
+Ancien professionnel de la banque (20 ans), reconverti en data.  
 Spécialisé dans l’analyse de données, la modélisation et le déploiement de solutions data orientées métier.
 
-🔧 Python | SQL | Pandas | Scikit-learn | XGBoost  
-📊 Streamlit | MLflow | Data Visualization  
-☁️ API, Hugging Face Spaces  
-💼 Finance, risque, conformité, KYC
+🔧 **Python | SQL | Pandas | Scikit-learn | XGBoost**  
+📊 **Streamlit | MLflow | Data Visualization**  
+☁️ **API, Hugging Face Spaces**  
+💼 **Finance, risque, conformité, KYC**
 
-📎 https://www.linkedin.com/in/jo%C3%ABl-termondjian/ | https://github.com/Djohell13 | joel.termondjian@hotmail.com
+📎 [LinkedIn](https://www.linkedin.com/in/jo%C3%ABl-termondjian/)  
+🐙 [GitHub](https://github.com/Djohell13)  
+✉️ joel.termondjian@hotmail.com
 
-🚀 Projets Data
-🔥 Prévision du risque incendie – Corse
+---
 
+## 🚀 Projets Data
+
+### 🔥 Prévision du risque incendie – Corse
 🔗 https://huggingface.co/spaces/Djohell/projet-final-lead
 
-Objectif métier
+**Objectif métier**  
 Anticiper le risque incendie à partir de données environnementales.
 
-Travail réalisé
+**Travail réalisé**
+- EDA et nettoyage des données
+- Feature engineering
+- Modélisation avec **XGBoost Survival Cox**
+- Tracking des expériences avec **MLflow**
+- Déploiement d’une application **Streamlit**
 
-EDA et nettoyage des données
+**Résultat**
+- Modèle interprétable orienté aide à la décision
+- Interface accessible à des utilisateurs non techniques
 
-Feature engineering
+---
 
-Modélisation avec XGBoost Survival Cox
-
-Tracking des expériences avec MLflow
-
-Déploiement d’une application Streamlit
-
-Résultat
-
-Modèle interprétable orienté aide à la décision
-
-Interface accessible à des utilisateurs non techniques
-
-🚗 Get Around — Étude d’impact & déploiement
-
+### 🚗 Get Around — Étude d’impact & déploiement
 🔗 https://huggingface.co/spaces/Djohell/get_around_dashboard
 
-Objectif métier
+**Objectif métier**  
 Évaluer l’impact de règles produit sur les retards utilisateurs.
 
-Travail réalisé
+**Travail réalisé**
+- Analyse exploratoire et feature engineering
+- Modélisation prédictive
+- Déploiement via **API + Streamlit**
 
-Analyse exploratoire et feature engineering
+**Résultat**
+- Recommandations data-driven pour la prise de décision produit
 
-Modélisation prédictive
+---
 
-Déploiement via API + Streamlit
-
-Résultat
-
-Recommandations data-driven pour la prise de décision produit
-
-🚕 Clustering de trajets UBER — New York
-
+### 🚕 Clustering de trajets UBER — New York
 🔗 https://huggingface.co/spaces/Djohell/Clustering_UBER
 
-Objectif
+**Objectif**  
 Identifier des segments d’usage à partir de trajets clients.
 
-Travail réalisé
+**Travail réalisé**
+- EDA et nettoyage
+- Clustering non supervisé
+- Visualisation et déploiement **Streamlit**
 
-EDA et nettoyage
+---
 
-Clustering non supervisé
+## 🧠 Compétences techniques
 
-Visualisation et déploiement Streamlit
+### Langages
+- Python
+- SQL
 
-🧠 Compétences techniques
+### Data & ML
+- Pandas, NumPy, Scikit-learn, XGBoost
+- EDA, feature engineering, clustering, modèles supervisés
 
-Langages
+### Déploiement / MLOps
+- Streamlit, MLflow
+- API, Hugging Face Spaces
 
-Python, SQL
+### Bases de données
+- MySQL
+- MongoDB
 
-Data & ML
+---
 
-Pandas, NumPy, Scikit-learn, XGBoost
+## 💼 Expérience professionnelle (résumé)
 
-EDA, feature engineering, clustering, modèles supervisés
+### La Banque Postale — 2006 → 2025  
+**Responsable Clientèle Professionnelle**
 
-Déploiement / MLOps
+- Analyse financière et prise de décision basée sur indicateurs chiffrés
+- Gestion du risque, conformité et KYC
+- Forte compréhension des enjeux business et réglementaires
+- Relation client et vulgarisation de données complexes
 
-Streamlit, MLflow
+👉 Cette expérience nourrit aujourd’hui mon approche **data orientée métier**.
 
-API, Hugging Face Spaces
+---
 
-Bases de données
+## 🎓 Formation
 
-MySQL, MongoDB
-
-💼 Expérience professionnelle (résumé)
-La Banque Postale — 2006 → 2025
-
-Responsable Clientèle Professionnelle
-
-Analyse financière et prise de décision basée sur indicateurs chiffrés
-
-Gestion du risque, conformité et KYC
-
-Forte compréhension des enjeux business et réglementaires
-
-Relation client et vulgarisation de données complexes
-
-👉 Cette expérience nourrit aujourd’hui mon approche data orientée métier.
-
-🎓 Formation
-
-CDSD & AIA — Master 2 Data Science | Jedha Bootcamp | 2025
-BTS Banque | 2006
-DUT Techniques de Commercialisation | 2004
+- **CDSD & AIA — Master 2 Data Science** | Jedha Bootcamp | 2025  
+- **BTS Banque** | 2006  
+- **DUT Techniques de Commercialisation** | 2004
