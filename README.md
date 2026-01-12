@@ -34,7 +34,11 @@ Conseiller de vente / Aix Les Milles
 - Description de la technologie utilisée et de ce que le projet impliquait/a accompli 
 - Réalisation 
 
-**Projet 2** https://huggingface.co/spaces/Djohell/Clustering_UBER 
+**Projet 1** : https://huggingface.co/spaces/Djohell/get_around_dashboard
+- Projet de déploiement avec étude d'impact
+- EDA, feature engineering, modèle, API
+
+**Projet 3** : https://huggingface.co/spaces/Djohell/Clustering_UBER 
 - Projet de clustering sur des courses UBER dans NY en 2014
 - EDA, clustering, déploiement
 
