@@ -11,46 +11,105 @@ Spécialisé dans l’analyse de données, la modélisation et le déploiement d
 
 📎 https://www.linkedin.com/in/jo%C3%ABl-termondjian/ | https://github.com/Djohell13 | joel.termondjian@hotmail.com
 
+🚀 Projets Data
+🔥 Prévision du risque incendie – Corse
 
-## Expérience 
-**La Banque Postale** Septembre 2017 à Janvier 2025    
-Responsable De clientèle Professionnelle / Arles
-- Financement de fonds de commerce, patientèles et murs commerciaux
-- Conquête de nouveaux clients, prospection, digitalisation de flux
-- Gestion du risque, conformité et KYC
+🔗 https://huggingface.co/spaces/Djohell/projet-final-lead
 
-**La Banque Postale** Juin 2006 à Août 2017 
-Conseiller Financier / Arles / Tarascon / Châteaurenard / Mollégès / Eyguières
-- Gestion et développement de portefeuille sur multi-sites
-- Gain de nombreux challenges : placements diversifiés, crédits...
-- Gestion du risque et KYC
+Objectif métier
+Anticiper le risque incendie à partir de données environnementales.
 
-**Micromania** Novembre 2005 à Février 2006
-Conseiller de vente / Aix Les Milles
-- Vente de produits et services vidéo-ludiques
-- Lancement de la Nintendo DS : 1er magasin en France sur les réservations
+Travail réalisé
 
-## Projets 
-**Projet 1** : https://huggingface.co/spaces/Djohell/projet-final-lead
-- Projet de prévision de risque incendie sur la Corse. Modèle XGBoost Survival Cox. 
-- EDA, CD, ML Flow, Streamlit
+EDA et nettoyage des données
 
-**Projet 2** : https://huggingface.co/spaces/Djohell/get_around_dashboard
-- Projet de déploiement avec étude d'impact
-- EDA, feature engineering, modèle, API, Streamlit
+Feature engineering
 
-**Projet 3** : https://huggingface.co/spaces/Djohell/Clustering_UBER 
-- Projet de clustering sur des courses UBER dans NY en 2014
-- EDA, clustering, déploiement, Streamlit
+Modélisation avec XGBoost Survival Cox
 
-## Diplômes
-**Diplômes** CDSD & AIA Master 2 | Jedha Bootcamp | 2025
+Tracking des expériences avec MLflow
 
-**Formation Responsable Clientèle Professionnelle** | La Banque Postale | 2017
+Déploiement d’une application Streamlit
 
-**BTS Banque** | FormaPoste/Lycée Saint Exupéry | 2006 
+Résultat
 
-**DUT Techniques de Commercialisation** | IUT Aix En Provence | 2004 
+Modèle interprétable orienté aide à la décision
 
-**Baccalauréat Sciences et Technologies Tertiaires** | Lycée International Georges Duby | 2002 
-Cours, activités ou autres détails
+Interface accessible à des utilisateurs non techniques
+
+🚗 Get Around — Étude d’impact & déploiement
+
+🔗 https://huggingface.co/spaces/Djohell/get_around_dashboard
+
+Objectif métier
+Évaluer l’impact de règles produit sur les retards utilisateurs.
+
+Travail réalisé
+
+Analyse exploratoire et feature engineering
+
+Modélisation prédictive
+
+Déploiement via API + Streamlit
+
+Résultat
+
+Recommandations data-driven pour la prise de décision produit
+
+🚕 Clustering de trajets UBER — New York
+
+🔗 https://huggingface.co/spaces/Djohell/Clustering_UBER
+
+Objectif
+Identifier des segments d’usage à partir de trajets clients.
+
+Travail réalisé
+
+EDA et nettoyage
+
+Clustering non supervisé
+
+Visualisation et déploiement Streamlit
+
+🧠 Compétences techniques
+
+Langages
+
+Python, SQL
+
+Data & ML
+
+Pandas, NumPy, Scikit-learn, XGBoost
+
+EDA, feature engineering, clustering, modèles supervisés
+
+Déploiement / MLOps
+
+Streamlit, MLflow
+
+API, Hugging Face Spaces
+
+Bases de données
+
+MySQL, MongoDB
+
+💼 Expérience professionnelle (résumé)
+La Banque Postale — 2006 → 2025
+
+Responsable Clientèle Professionnelle
+
+Analyse financière et prise de décision basée sur indicateurs chiffrés
+
+Gestion du risque, conformité et KYC
+
+Forte compréhension des enjeux business et réglementaires
+
+Relation client et vulgarisation de données complexes
+
+👉 Cette expérience nourrit aujourd’hui mon approche data orientée métier.
+
+🎓 Formation
+
+CDSD & AIA — Master 2 Data Science | Jedha Bootcamp | 2025
+BTS Banque | 2006
+DUT Techniques de Commercialisation | 2004
