@@ -2,11 +2,11 @@
 ## Data Analyst / Data Engineer
 
 Ancien professionnel de la banque (20 ans), reconverti en data.  
-Spécialisé dans l’analyse de données, la modélisation et le déploiement de solutions data orientées métier.
+J’utilise la data et l’automatisation pour transformer des données brutes en outils d’aide à la décision.
 
 🔧 **Python | SQL | Pandas | Scikit-learn | XGBoost**  
 📊 **Streamlit | MLflow | Data Visualization**  
-☁️ **API, Hugging Face Spaces**  
+☁️ **API, Hugging Face Spaces, Docker, Airflow**  
 💼 **Finance, risque, conformité, KYC**
 
 📎 [LinkedIn](https://www.linkedin.com/in/jo%C3%ABl-termondjian/)  
