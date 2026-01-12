@@ -104,5 +104,5 @@ Identifier des segments d’usage à partir de trajets clients.
 ## 🎓 Formation
 
 - **CDSD & AIA — Master 2 Data Science** | Jedha Bootcamp | 2025  
-- **BTS Banque** | 2006  
-- **DUT Techniques de Commercialisation** | 2004
+- **BTS Banque** | Formaposte | 2006  
+- **DUT Techniques de Commercialisation** | IUT Aix-en-Provence | 2004
