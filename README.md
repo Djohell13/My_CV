@@ -78,6 +78,8 @@ Identifier des segments d’usage à partir de trajets clients.
 ### Déploiement / MLOps
 - Streamlit, MLflow
 - API, Hugging Face Spaces
+- Docker (containerisation d’applications data)
+- Airflow (orchestration de pipelines, DAGs simples)
 
 ### Bases de données
 - MySQL
