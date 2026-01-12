@@ -1,15 +1,15 @@
 # Joel TERMONDJIAN
- Data Analyst/Engineer | Portfolio : [ yourportfolio.github.io ]( https://yourportfolio.github.io ) 
+## Data Analyst / Data Engineer
 
-## Résumé
- Après 20 ans de carrière dans la banque dans les domaines privés et aussi professionnels, j'ai décidé de me reconvertir dans le domaine de la data.
- Après une formation intensive faite avec Jedha Bootcamp, j'ai acquis les compétences nécessaires à l'accomplissement de mon projet. 
+Ancien professionnel de la banque (20 ans), reconverti en data.
+Spécialisé dans l’analyse de données, la modélisation et le déploiement de solutions data orientées métier.
 
-## Compétences 
-- Langages de programmation : Python, 
-- Frameworks Web : React, Django, etc. 
-- Bases de données : MySQL, MongoDB 
-- Outils et méthodes : Git, Agile, TDD, etc. 
+🔧 Python | SQL | Pandas | Scikit-learn | XGBoost  
+📊 Streamlit | MLflow | Data Visualization  
+☁️ Déploiement : API, Hugging Face Spaces  
+💼 Forte culture métier : finance, risque, conformité
+
+📎 LinkedIn | github.com/Djohell13 | joel.termondjian@hotmail.com
 
 ## Expérience 
 **La Banque Postale** Septembre 2017 à Janvier 2025    
@@ -30,17 +30,17 @@ Conseiller de vente / Aix Les Milles
 - Lancement de la Nintendo DS : 1er magasin en France sur les réservations
 
 ## Projets 
-**Projet 1** (lien vers le site du projet ou le dépôt GitHub)   
-- Description de la technologie utilisée et de ce que le projet impliquait/a accompli 
-- Réalisation 
+**Projet 1** : https://huggingface.co/spaces/Djohell/projet-final-lead
+- Projet de prévision de risque incendie sur la Corse. Modèle XGBoost Survival Cox. 
+- EDA, CD, ML Flow, Streamlit
 
-**Projet 1** : https://huggingface.co/spaces/Djohell/get_around_dashboard
+**Projet 2** : https://huggingface.co/spaces/Djohell/get_around_dashboard
 - Projet de déploiement avec étude d'impact
-- EDA, feature engineering, modèle, API
+- EDA, feature engineering, modèle, API, Streamlit
 
 **Projet 3** : https://huggingface.co/spaces/Djohell/Clustering_UBER 
 - Projet de clustering sur des courses UBER dans NY en 2014
-- EDA, clustering, déploiement
+- EDA, clustering, déploiement, Streamlit
 
 ## Diplômes
 **Diplômes** CDSD & AIA Master 2 | Jedha Bootcamp | 2025
