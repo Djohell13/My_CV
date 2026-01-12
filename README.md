@@ -34,12 +34,12 @@ Conseiller de vente / Aix Les Milles
 - Description de la technologie utilisée et de ce que le projet impliquait/a accompli 
 - Réalisation 
 
-**Projet 2** (lien) 
-- Description 
-- Réalisation 
+**Projet 2** https://huggingface.co/spaces/Djohell/Clustering_UBER 
+- Projet de clustering sur des courses UBER dans NY en 2014
+- EDA, clustering, déploiement
 
 ## Diplômes
-**Diplômes** CDSD & AIA Master 2| Jedha Bootcamp | 2025
+**Diplômes** CDSD & AIA Master 2 | Jedha Bootcamp | 2025
 
 **Formation Responsable Clientèle Professionnelle** | La Banque Postale | 2017
 
