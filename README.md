@@ -6,10 +6,11 @@ Spécialisé dans l’analyse de données, la modélisation et le déploiement d
 
 🔧 Python | SQL | Pandas | Scikit-learn | XGBoost  
 📊 Streamlit | MLflow | Data Visualization  
-☁️ Déploiement : API, Hugging Face Spaces  
-💼 Forte culture métier : finance, risque, conformité
+☁️ API, Hugging Face Spaces  
+💼 Finance, risque, conformité, KYC
 
-📎 LinkedIn | github.com/Djohell13 | joel.termondjian@hotmail.com
+📎 https://www.linkedin.com/in/jo%C3%ABl-termondjian/ | https://github.com/Djohell13 | joel.termondjian@hotmail.com
+
 
 ## Expérience 
 **La Banque Postale** Septembre 2017 à Janvier 2025    
