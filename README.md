@@ -39,7 +39,7 @@ Conseiller de vente / Aix Les Milles
 - Réalisation 
 
 ## Diplômes
-**Diplôme** | Jedha Bootcamp | 2025
+**Diplômes** CDSD & AIA Master 2| Jedha Bootcamp | 2025
 
 **Formation Responsable Clientèle Professionnelle** | La Banque Postale | 2017
 
