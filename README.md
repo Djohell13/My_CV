@@ -1,7 +1,7 @@
 # Joel TERMONDJIAN
 ## Data Analyst / Data Engineer
 
-Ancien professionnel de la banque (20 ans), reconverti en data.  
+Expert dans la banque (20 ans), reconverti en data.  
 J’utilise la data et l’automatisation pour transformer des données brutes en outils d’aide à la décision.
 
 🔧 **Python | SQL | Pandas | Scikit-learn | XGBoost**  
