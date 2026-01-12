@@ -17,22 +17,22 @@ J’utilise la data et l’automatisation pour transformer des données brutes e
 
 ## 🚀 Projets Data
 
-#### 🔥 Prévision du risque incendie – Corse
+### 🔥 Prévision du risque incendie – Corse
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/projet-final-lead)
 
-**Objectif métier**  
-Anticiper le risque incendie à partir de données environnementales.
+**Objectif métier :**
+- Anticiper le risque incendie à partir de données environnementales.
 
-**Travail réalisé**
+**Travail réalisé :**
 - EDA et nettoyage des données
 - Feature engineering
-- Modélisation avec **XGBoost Survival Cox**
-- Tracking des expériences avec **MLflow**
-- Déploiement d’une application **Streamlit**
+- Modélisation avec XGBoost Survival Cox
+- Tracking avec MLflow
+- Déploiement d’une application Streamlit
 
-**Résultat**
+**Résultat :**
 - Modèle interprétable orienté aide à la décision
-- Interface accessible à des utilisateurs non techniques
+- Interface accessible aux utilisateurs non techniques
 
 ---
 
