@@ -11,7 +11,7 @@ J’utilise la data et l’automatisation pour transformer des données brutes e
 
 📎 [LinkedIn](https://www.linkedin.com/in/jo%C3%ABl-termondjian/)  
 🐙 [GitHub](https://github.com/Djohell13)  
-✉️ joel.termondjian@hotmail.com
+✉️ [joel.termondjian@hotmail.com](mailto:joel.termondjian@hotmail.com)
 
 ---
 
@@ -106,3 +106,12 @@ Identifier des segments d’usage à partir de trajets clients.
 - **CDSD & AIA — Master 2 Data Science** | Jedha Bootcamp | 2025  
 - **BTS Banque** | Formaposte | 2006  
 - **DUT Techniques de Commercialisation** | IUT Aix-en-Provence | 2004
+
+---
+
+### 🎯 Informations personnelles
+
+- **Centres d’intérêt :** Karaté, jeux vidéo, lecture  
+- **Permis :** A / B  
+- **Langues :** Anglais – niveau B2
+
