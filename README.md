@@ -36,6 +36,28 @@ J’utilise la data et l’automatisation pour transformer des données brutes e
 
 ---
 
+### 💵 Détection de fraude automatisée
+🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Dashboard-fraud-detection)
+
+**Objectif métier :**  
+- Mettre en place un système automatisé pour détecter les fraudes sur les paiements par carte bancaire.
+
+**Travail réalisé :**  
+- Analyse exploratoire (EDA) et nettoyage des données  
+- Feature engineering pour enrichir le dataset  
+- Modélisation prédictive avec XGBoost
+- Suivi des expériences et performances avec MLflow  
+- Déploiement d’une application interactive via Streamlit  
+- **Automatisation des alertes : envoi d’un mail quotidien pour les fraudes détectées de J-1**  
+- **Récapitulatif des fraudes disponible directement dans l’interface Streamlit**
+
+**Résultats :**  
+- Modèle interprétable et orienté aide à la décision  
+- Interface intuitive permettant aux utilisateurs non techniques de visualiser et analyser les alertes  
+- **Gain de temps et réactivité accrue pour la détection des fraudes**
+
+---
+
 #### 🚗 Get Around — Étude d’impact & déploiement
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/get_around_dashboard)
 
