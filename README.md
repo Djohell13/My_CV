@@ -90,7 +90,7 @@ Identifier des segments d’usage à partir de trajets clients.
 ## 💼 Expérience professionnelle (résumé)
 
 ### La Banque Postale — 2006 → 2025  
-**Responsable Clientèle Professionnelle**
+**Responsable Clientèle Professionnelle / Conseiller Financier**
 
 - Analyse financière et prise de décision basée sur indicateurs chiffrés
 - Gestion du risque, conformité et KYC
