@@ -65,23 +65,23 @@ Identifier des segments d’usage à partir de trajets clients.
 
 ---
 
-## 🧠 Compétences techniques
+### 🧠 Compétences techniques
 
-### Langages
+**Langages :**
 - Python
 - SQL
 
-### Data & ML
+**Data & ML :**
 - Pandas, NumPy, Scikit-learn, XGBoost
 - EDA, feature engineering, clustering, modèles supervisés
 
-### Déploiement / MLOps
+**Déploiement / MLOps :**
 - Streamlit, MLflow
+- Docker (containerisation)
+- Airflow (orchestration de pipelines)
 - API, Hugging Face Spaces
-- Docker (containerisation d’applications data)
-- Airflow (orchestration de pipelines, DAGs simples)
 
-### Bases de données
+**Bases de données :**
 - MySQL
 - MongoDB
 
