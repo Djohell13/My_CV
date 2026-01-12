@@ -1,5 +1,5 @@
 # Joel TERMONDJIAN
- Data Scientist | Portfolio : [ yourportfolio.github.io ]( https://yourportfolio.github.io ) 
+ Data Analyst/Engineer | Portfolio : [ yourportfolio.github.io ]( https://yourportfolio.github.io ) 
 
 ## Résumé
  Après 20 ans de carrière dans la banque dans les domaines privés et aussi professionnels, j'ai décidé de me reconvertir dans le domaine de la data.
