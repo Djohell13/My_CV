@@ -18,7 +18,7 @@ J’utilise la data et l’automatisation pour transformer des données brutes e
 ## 🚀 Projets Data
 
 ### 🔥 Prévision du risque incendie – Corse
-🔗 [Voir le projet](https://projet-final-lead.streamlit.app/)
+🔗 [Voir le projet](https://projet-feux.streamlit.app/)
 
 **Objectif métier :**
 - Anticiper le risque incendie à partir de données environnementales.
