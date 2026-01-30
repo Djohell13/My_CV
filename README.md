@@ -3,7 +3,15 @@
 
 > **20 ans d'expertise bancaire (Privée & Pro) mis au service de la Data.** > Je conçois des pipelines automatisés et des modèles prédictifs pour transformer des flux de données brutes en leviers de décision stratégiques (Risque, KYC, Fraude).
 
-🔧 **Python | SQL | Pandas | Scikit-learn | XGBoost** 📊 **Streamlit | MLflow | Data Visualization** ☁️ **API, Hugging Face Spaces, Docker, Airflow** 💼 **Finance, risque, conformité, KYC**
+---
+
+### 🛠 Stack & Expertise
+* 🔧 **Langages & Core** : Python | SQL | Pandas | Scikit-learn | XGBoost
+* 📊 **Analyse & Ops** : Streamlit | MLflow | Data Visualization
+* ☁️ **Infrastructure** : API | Hugging Face Spaces | Docker | Airflow
+* 💼 **Domaine Métier** : Finance | Risque | Conformité | KYC
+
+---
 
 📎 [LinkedIn](https://www.linkedin.com/in/jo%C3%ABl-termondjian/) | 🐙 [GitHub](https://github.com/Djohell13) | ✉️ [joel.termondjian@hotmail.com](mailto:joel.termondjian@hotmail.com)
 
