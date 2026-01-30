@@ -18,17 +18,17 @@
 💵 Système de Détection de Fraude Automatisé (FinTech)
 🔗 Accéder au Dashboard
 
-Problématique : Identifier les transactions frauduleuses en temps réel pour réduire les pertes opérationnelles.
+- Problématique : Identifier les transactions frauduleuses en temps réel pour réduire les pertes opérationnelles.
 
-Pipeline Technique : * Ingestion et nettoyage de flux transactionnels.
+- Pipeline Technique : * Ingestion et nettoyage de flux transactionnels.
 
-Feature Engineering avancé (patterns comportementaux, vélocité).
+- Feature Engineering avancé (patterns comportementaux, vélocité).
 
-Modélisation via XGBoost avec tracking des métriques sur MLflow.
+- Modélisation via XGBoost avec tracking des métriques sur MLflow.
 
-Automatisation : Système d'alerting quotidien par email pour les anomalies détectées à J-1.
+- Automatisation : Système d'alerting quotidien par email pour les anomalies détectées à J-1.
 
-Impact : Réduction du temps de réaction des analystes fraude et interface de monitoring intuitive.
+- Impact : Réduction du temps de réaction des analystes fraude et interface de monitoring intuitive.
 
 🔥 Prévision du Risque Incendie (Survival Analysis)
 🔗 Accéder au Projet
