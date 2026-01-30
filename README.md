@@ -90,5 +90,6 @@
 ---
 
 ### 🎯 Infos complémentaires
+* **Permis** : A et B
 * **Langues** : Anglais (Niveau B2)
 * **Passions** : Karaté, Jeux Vidéo, Lecture.
