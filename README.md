@@ -1,7 +1,4 @@
-# Joel TERMONDJIAN
-## Data Analyst / Data Engineer
-
-🚀 # Joël TERMONDJIAN
+# 🚀 Joël TERMONDJIAN
 # Data Engineer & Analyst | Expert Finance & Compliance
 20 ans d'expertise bancaire (Privée & Pro) transformés par la Data. > Je conçois des pipelines automatisés et des modèles prédictifs pour transformer des flux de données brutes en leviers de décision stratégiques (Risque, KYC, Fraude).
 
