@@ -15,6 +15,33 @@
 
 ## 💼 Projets Data Phares
 
+💵 Système de Détection de Fraude Automatisé (FinTech)
+🔗 Accéder au Dashboard
+
+Problématique : Identifier les transactions frauduleuses en temps réel pour réduire les pertes opérationnelles.
+
+Pipeline Technique : * Ingestion et nettoyage de flux transactionnels.
+
+Feature Engineering avancé (patterns comportementaux, vélocité).
+
+Modélisation via XGBoost avec tracking des métriques sur MLflow.
+
+Automatisation : Système d'alerting quotidien par email pour les anomalies détectées à J-1.
+
+Impact : Réduction du temps de réaction des analystes fraude et interface de monitoring intuitive.
+
+🔥 Prévision du Risque Incendie (Survival Analysis)
+🔗 Accéder au Projet
+
+Expertise : Utilisation du modèle XGBoost Survival Cox pour prédire le "Time-to-Event".
+
+Data Engineering : Pipeline automatisé d'intégration de données météo en temps réel via API.
+
+Lien Banque : Approche directement transposable au Scoring de Crédit et au Risque de Défaut.
+
+
+
+
 ### 🔥 Prévision du risque incendie – Corse
 🔗 [Voir le projet](https://projet-feux.streamlit.app/)
 
