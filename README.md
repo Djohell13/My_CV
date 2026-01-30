@@ -1,8 +1,9 @@
 # Joel TERMONDJIAN
 ## Data Analyst / Data Engineer
 
-Expert dans la banque (20 ans), reconverti en data.  
-J’utilise la data et l’automatisation pour transformer des données brutes en outils d’aide à la décision.
+🚀 # Joël TERMONDJIAN
+# Data Engineer & Analyst | Expert Finance & Compliance
+20 ans d'expertise bancaire (Privée & Pro) transformés par la Data. > Je conçois des pipelines automatisés et des modèles prédictifs pour transformer des flux de données brutes en leviers de décision stratégiques (Risque, KYC, Fraude).
 
 🔧 **Python | SQL | Pandas | Scikit-learn | XGBoost**  
 📊 **Streamlit | MLflow | Data Visualization**  
@@ -15,7 +16,7 @@ J’utilise la data et l’automatisation pour transformer des données brutes e
 
 ---
 
-## 🚀 Projets Data
+## 💼 Projets Data Phares
 
 ### 🔥 Prévision du risque incendie – Corse
 🔗 [Voir le projet](https://projet-feux.streamlit.app/)
