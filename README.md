@@ -7,10 +7,18 @@ Je conçois des pipelines automatisés et des predictive models pour transformer
 ---
 
 ### 🛠 Stack & Expertise
-* 🔧 **Langages & Core** : Python | SQL | Pandas | Scikit-learn | XGBoost
-* 📊 **Analyse & Ops** : Streamlit | MLflow | Data Visualization
-* ☁️ **Infrastructure** : API REST | Hugging Face Spaces | Docker | Airflow
-* 💼 **Domaine Métier** : Finance | Risque | Conformité | KYC
+
+**Langages & Core**  
+Python, SQL, Pandas, Scikit-learn, XGBoost
+
+**Analyse & Ops**  
+Streamlit, MLflow, Data Visualization
+
+**Infrastructure**  
+API REST, Hugging Face Spaces, Docker, Airflow
+
+**Domaine Métier**  
+Finance, Risque, Conformité, KYC
 
 ---
 
