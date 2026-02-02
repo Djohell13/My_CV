@@ -1,6 +1,7 @@
 # 🚀 Joël TERMONDJIAN
 
-Arles (13) | 06 33 64 12 96 | joel.termondjian@hotmail.com | [LinkedIn](https://www.linkedin.com/in/joel-termondjian/) | [GitHub](https://github.com/Djohell13)
+📍 Arles (13) | 📞 06 33 64 12 96 | ✉️ [joel.termondjian@hotmail.com](mailto:joel.termondjian@hotmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/joel-termondjian/) | 🐙 [GitHub](https://github.com/Djohell13)
+
 
 ## Data Engineer & Data Analyst | Banque, Finance, Risque & Compliance
 
