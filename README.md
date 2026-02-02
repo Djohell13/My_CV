@@ -81,8 +81,8 @@ Mettre en place un système automatisé pour détecter les fraudes sur les paiem
     * **Pipeline d'alerte** : Envoi automatisé d'un mail quotidien via **Airflow** listant les fraudes détectées à J-1.
       
 **Résultat** :
-    * Analyse complète des transactions frauduleuses à J-1 par envoi de mail
-    * Tableau de bord opérationnel pour les analystes avec données intégrées toutes les semaines
+* Analyse complète des transactions frauduleuses à J-1 par envoi de mail
+* Tableau de bord opérationnel pour les analystes avec données intégrées toutes les semaines
 
 
 ---
