@@ -68,7 +68,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 
 **Objectif métier :** Mettre en place un système automatisé pour détecter les fraudes sur les paiements par carte bancaire et alerter les analystes.
 
-**Travail réalisé :**
+**Approche technique :**
 * **Ingénierie des données** : 
     * Analyse exploratoire (EDA) et nettoyage des flux transactionnels.
     * Feature engineering pour identifier des patterns comportementaux et la vélocité des transactions.
@@ -78,6 +78,10 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 * **Déploiement & Automatisation** :
     * Interface interactive via **Streamlit**.
     * **Pipeline d'alerte** : Envoi automatisé d'un mail quotidien via **Airflow** listant les fraudes détectées à J-1.
+      
+**Résultat :**
+    * Analyse complète des transactions frauduleuses à J-1
+    * Tableau de bord opérationnel pour les analystes avec données intégrées toutes les semaines
 
 ---
 
