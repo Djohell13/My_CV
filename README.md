@@ -122,7 +122,7 @@ Projet de recherche et développement (Work in Progress) – résultats et dépl
 Jedha Bootcamp · 2025
 
 **Master 1 Concepteur Développeur en Science des Données**
-Jedha Bootcamp . 2025
+Jedha Bootcamp · 2025
 
 **BTS Banque**  
 Formaposte · 2006
