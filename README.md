@@ -80,7 +80,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 
 ---
 
-### 🔥 Prévision du risque incendie — Survival Analysis (SDIS)
+### 🔥 Prévision du risque incendie - Survival Analysis (SDIS)
 🔗 [Voir le projet](https://projet-feux.streamlit.app/)
 
 **Objectif métier :** Anticiper le risque incendie en temps réel. Une approche directement transposable en banque au **Scoring de Crédit** et au **Risque de Défaut**.
@@ -109,7 +109,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 
 ## 💼 Expérience professionnelle (résumé)
 
-### La Banque Postale | 2006 — 2025
+### La Banque Postale | 2006 - 2025
 **Responsable Clientèle Professionnelle / Conseiller Financier**
 
 * **Gestion du Risque & Data Analysis** : Analyse de données financières, suivi d’indicateurs chiffrés (KPI), aide à la prise de décision et conformité KYC.
