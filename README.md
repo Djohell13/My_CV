@@ -44,7 +44,7 @@ Je conçois des pipelines automatisés et des predictive models pour transformer
 **Objectif métier :** Anticiper le risque incendie en temps réel. Une approche directement transposable en banque au **Scoring de Crédit** et au **Risque de Défaut**.
 
 **Travail réalisé :**
-* **Data Engineering** : Pipeline automatisé d’intégration de données météo en temps réel via API.
+* **Data Engineering** : Pipeline automatisé d’intégration de données météo en temps réel via API REST.
 * **Modélisation avancée** : Utilisation du modèle XGBoost Cox Survival Model (Survival Analysis) pour prédire le Time-to-Event.
 * **Déploiement** : Application Streamlit et API REST orientée aide à la décision.
 
@@ -90,7 +90,6 @@ Projet de recherche et développement (Work in Progress) – résultats et dépl
 * **Déploiement & MLOps** :
     * Streamlit, MLflow.
     * Docker (Containerization), Airflow (pipeline orchestration).
-
     * API REST, Hugging Face Spaces.
     * AWS S3.
 * **Bases de données** : MySQL, MongoDB.
