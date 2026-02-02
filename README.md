@@ -66,7 +66,8 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 ### 💵 Détection de fraude automatisée (FinTech)
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Dashboard-fraud-detection)
 
-**Objectif métier :** Mettre en place un système automatisé pour détecter les fraudes sur les paiements par carte bancaire et alerter les analystes.
+**Objectif métier :** 
+Mettre en place un système automatisé pour détecter les fraudes sur les paiements par carte bancaire et alerter les analystes.
 
 **Approche technique :**
 * **Ingénierie des données** : 
@@ -79,7 +80,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
     * Interface interactive via **Streamlit**.
     * **Pipeline d'alerte** : Envoi automatisé d'un mail quotidien via **Airflow** listant les fraudes détectées à J-1.
 * **Résultat** :
-    * Analyse complète des transactions frauduleuses à J-1
+    * Analyse complète des transactions frauduleuses à J-1 par envoi de mail
     * Tableau de bord opérationnel pour les analystes avec données intégrées toutes les semaines
 
 
@@ -88,12 +89,17 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 ### 🔥 Prévision du risque incendie - Survival Analysis (SDIS)
 🔗 [Voir le projet](https://projet-feux.streamlit.app/)
 
-**Objectif métier :** Anticiper le risque incendie en temps réel. Une approche directement transposable en banque au **Scoring de Crédit** et au **Risque de Défaut**.
+**Objectif métier :** 
+Anticiper le risque incendie en temps réel. Une approche directement transposable en banque au **Scoring de Crédit** et au **Risque de Défaut**.
 
-**Travail réalisé :**
-* **Data Engineering** : Pipeline automatisé d’intégration de données météo en temps réel via API REST.
-* **Modélisation avancée** : Utilisation du modèle XGBoost Cox Survival Model (Survival Analysis) pour prédire le Time-to-Event.
-* **Déploiement** : Application Streamlit et API REST orientée aide à la décision.
+**Approche technique :**
+   * **Data Engineering** : Pipeline automatisé d’intégration de données météo en temps réel via API REST.
+   * **Modélisation avancée** : Utilisation du modèle XGBoost Cox Survival Model (Survival Analysis) pour prédire le Time-to-Event.
+   * **Déploiement** : Application Streamlit et API REST orientée aide à la décision.
+
+**Résultat :**
+   * Modèle avec C-index à 0.809
+   * Dashboard de visualisation du risque de 7 à 180 jours
 
 ---
 
