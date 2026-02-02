@@ -13,7 +13,7 @@
 
 ---
 
-📎 [LinkedIn](https://www.linkedin.com/in/jo%C3%ABl-termondjian/) | 🐙 [GitHub](https://github.com/Djohell13) | ✉️ [joel.termondjian@hotmail.com](mailto:joel.termondjian@hotmail.com)
+📎 [LinkedIn](https://www.linkedin.com/in/joel-termondjian/) | 🐙 [GitHub](https://github.com/Djohell13) | ✉️ [joel.termondjian@hotmail.com](mailto:joel.termondjian@hotmail.com)
 
 ---
 
