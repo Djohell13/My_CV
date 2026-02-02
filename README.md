@@ -78,10 +78,10 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 * **Déploiement & Automatisation** :
     * Interface interactive via **Streamlit**.
     * **Pipeline d'alerte** : Envoi automatisé d'un mail quotidien via **Airflow** listant les fraudes détectées à J-1.
-      
-**Résultat :**
+* **Résultat** :
     * Analyse complète des transactions frauduleuses à J-1
     * Tableau de bord opérationnel pour les analystes avec données intégrées toutes les semaines
+
 
 ---
 
