@@ -21,7 +21,7 @@ Je conçois des pipelines automatisés et des predictive models pour transformer
 ## 💼 Projets Data Phares
 
 ### 💵 Détection de fraude automatisée (FinTech)
-🔗 [Accéder au Dashboard](https://huggingface.co/spaces/Djohell/Dashboard-fraud-detection)
+🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Dashboard-fraud-detection)
 
 **Objectif métier :** Mettre en place un système automatisé pour détecter les fraudes sur les paiements par carte bancaire et alerter les analystes.
 
