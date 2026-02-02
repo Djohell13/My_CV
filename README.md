@@ -44,6 +44,21 @@ Finance, gestion du risque, conformité réglementaire, KYC
 
 ---
 
+### 🧪 Modélisation de la durée de vie client & risque de défaut — R&D (en cours)
+
+**Objectif métier :**  
+Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le scoring de crédit et l’anticipation du risque client en environnement bancaire.
+
+**Approche technique :**
+* Survival Analysis avec XGBoost Cox Survival Model.
+* Feature engineering orienté comportement client et historique financier.
+* Évaluation des performances via métriques Time-to-Event.
+
+**Statut :**  
+Projet de recherche et développement (Work in Progress) – résultats et déploiement en cours.
+
+---
+
 ## 💼 Projets Data Phares
 
 ### 💵 Détection de fraude automatisée (FinTech)
@@ -88,21 +103,6 @@ Finance, gestion du risque, conformité réglementaire, KYC
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Clustering_UBER)
 
 * **Objectif** : Identifier des segments d’usage à partir de trajets clients via clustering non supervisé pour optimiser la flotte.
-
----
-
-### 🧪 Modélisation de la durée de vie client & risque de défaut — R&D (en cours)
-
-**Objectif métier :**  
-Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le scoring de crédit et l’anticipation du risque client en environnement bancaire.
-
-**Approche technique :**
-* Survival Analysis avec XGBoost Cox Survival Model.
-* Feature engineering orienté comportement client et historique financier.
-* Évaluation des performances via métriques Time-to-Event.
-
-**Statut :**  
-Projet de recherche et développement (Work in Progress) – résultats et déploiement en cours.
 
 ---
 
