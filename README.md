@@ -134,7 +134,7 @@ IUT Aix-en-Provence · 2004
 
 ---
 
-### 🎯 Infos complémentaires
+## 🎯 Infos complémentaires
 * **Permis** : A et B
 * **Langues** : Anglais (Niveau B2)
 * **Passions** : Karaté, Jeux Vidéo, Lecture.
