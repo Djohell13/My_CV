@@ -118,9 +118,14 @@ Projet de recherche et développement (Work in Progress) – résultats et dépl
 
 ## 🎓 Formation
 
-* 🎓 **CDSD & AIA - Master 2 Data Science** | Jedha Bootcamp | 2025
-* 🎓 **BTS Banque** | Formaposte | 2006
-* 🎓 **DUT Techniques de Commercialisation** | IUT Aix-en-Provence | 2004
+**CDSD & AIA – Master 2 Data Science**  
+Jedha Bootcamp · 2025
+
+**BTS Banque**  
+Formaposte · 2006
+
+**DUT Techniques de Commercialisation**  
+IUT Aix-en-Provence · 2004
 
 ---
 
