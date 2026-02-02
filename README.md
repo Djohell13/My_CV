@@ -12,7 +12,7 @@ Je conçois des pipelines automatisés et des predictive models pour transformer
 
 ---
 
-### 🛠 Compétences techniques
+## 🛠 Compétences techniques
 
 **Langages & Big Data**
 Python, SQL, Spark
