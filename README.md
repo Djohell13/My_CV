@@ -15,32 +15,32 @@ Je conçois des pipelines automatisés et des predictive models pour transformer
 
 ## 🛠 Compétences techniques
 
-**Langages & Big Data**
+**Langages & Big Data :**
 Python, SQL, Spark
 
-**Data Analysis & Machine Learning**
+**Data Analysis & Machine Learning :**
 Pandas, NumPy, Scikit-learn, XGBoost
 Exploratory Data Analysis (EDA), feature engineering, clustering
 Modèles supervisés et non supervisés
 Data visualization, analyse statistique
 
-**Data Engineering & MLOps**
+**Data Engineering & MLOps :**
 Conception de pipelines data, traitement de données à grande échelle
 MLflow (suivi d’expériences, versioning de modèles)
 Streamlit (applications data interactives)
 Docker (containerisation), Airflow (orchestration de pipelines)
 Déploiement de modèles et services data
 
-**Infrastructure & Déploiement**
+**Infrastructure & Déploiement :**
 API REST
 Hugging Face Spaces
 Cloud : AWS S3
 Environnements Big Data
 
-**Bases de données**
+**Bases de données :**
 MySQL (relationnel), MongoDB (NoSQL)
 
-**Domaines métier**
+**Domaines métier :**
 Finance, gestion du risque, conformité réglementaire, KYC
 
 **────────────────────────────────────────────────────────────────────────**
