@@ -60,7 +60,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 * Déterminer un risque de défaillance avec un horizon temporel
 * Projet de recherche et développement (Work in Progress) – résultats et déploiement en cours.
 
-**────────────────────────────────────────────────────────────────────────**
+---
 
 ### 💵 Détection de fraude automatisée (FinTech)
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Dashboard-fraud-detection)
