@@ -44,6 +44,8 @@ Finance, gestion du risque, conformité réglementaire, KYC
 
 ---
 
+## 💼 Projets Data Phares
+
 ### 🧪 Modélisation de la durée de vie client & risque de défaut — R&D (en cours)
 
 **Objectif métier :**  
@@ -58,8 +60,6 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 Projet de recherche et développement (Work in Progress) – résultats et déploiement en cours.
 
 ---
-
-## 💼 Projets Data Phares
 
 ### 💵 Détection de fraude automatisée (FinTech)
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Dashboard-fraud-detection)
