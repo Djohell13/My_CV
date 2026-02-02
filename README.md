@@ -118,8 +118,11 @@ Projet de recherche et développement (Work in Progress) – résultats et dépl
 
 ## 🎓 Formation
 
-**CDSD & AIA – Master 2 Data Science**  
+**Master 2 Architecte en Intelligence Artificielle**  
 Jedha Bootcamp · 2025
+
+**Master 1 Concepteur Développeur en Science des Données**
+Jedha Bootcamp . 2025
 
 **BTS Banque**  
 Formaposte · 2006
