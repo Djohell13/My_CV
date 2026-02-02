@@ -34,7 +34,7 @@ Je conçois des pipelines automatisés et des predictive models pour transformer
     * Suivi des expériences et des performances via **MLflow**.
 * **Déploiement & Automatisation** :
     * Interface interactive via **Streamlit**.
-    * **Pipeline d'alerte** : Envoi automatisé d'un mail quotidien listant les fraudes détectées à J-1.
+    * **Pipeline d'alerte** : Envoi automatisé d'un mail quotidien viar Airflow listant les fraudes détectées à J-1.
 
 ---
 
