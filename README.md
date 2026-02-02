@@ -66,15 +66,15 @@
 
 ### 🧪 Modélisation de la durée de vie client & risque de défaut — R&D (en cours)
 
-Objectif métier :
+* **Objectif métier :**
 Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le scoring de crédit et l’anticipation du risque client en environnement bancaire.
 
-Approche technique :
+* **Approche technique :**
 • Survival Analysis avec XGBoost Cox Survival Model.
 • Feature engineering orienté comportement client et historique financier notamment.
 • Évaluation des performances via métriques Time-to-Event.
 
-Statut :
+* **Statut :**
 Projet de recherche et développement (Work in Progress) – résultats et déploiement en cours.
 
 ---
