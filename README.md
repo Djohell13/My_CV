@@ -5,7 +5,7 @@
 
 
 
-## Data Engineer & Data Analyst
+## Data Analytics Engineer
 Banque, Finance, Risque & Compliance
 
 **20 ans d’expertise bancaire (Privée & Pro) mis au service de la Data.** 
