@@ -10,7 +10,7 @@
 > **20 ans d’expertise bancaire (Privée & Pro) mis au service de la Data.** 
 Je conçois des pipelines automatisés et des predictive models pour transformer des flux de données brutes en leviers de décision stratégiques (Risque, KYC, Fraude).
 
----
+**────────────────────────────────────────────────────────────────────────**
 
 ## 🛠 Compétences techniques
 
@@ -42,7 +42,7 @@ MySQL (relationnel), MongoDB (NoSQL)
 **Domaines métier**
 Finance, gestion du risque, conformité réglementaire, KYC
 
----
+**────────────────────────────────────────────────────────────────────────**
 
 ## 💼 Projets Data Phares
 
@@ -60,7 +60,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 * Déterminer un risque de défaillance avec un horizon temporel
 * Projet de recherche et développement (Work in Progress) – résultats et déploiement en cours.
 
----
+**────────────────────────────────────────────────────────────────────────**
 
 ### 💵 Détection de fraude automatisée (FinTech)
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Dashboard-fraud-detection)
@@ -105,7 +105,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 
 * **Objectif** : Identifier des segments d’usage à partir de trajets clients via clustering non supervisé pour optimiser la flotte.
 
----
+**────────────────────────────────────────────────────────────────────────**
 
 ## 💼 Expérience professionnelle (résumé)
 
@@ -133,7 +133,7 @@ Formaposte · 2006
 **DUT Techniques de Commercialisation**  
 IUT Aix-en-Provence · 2004
 
----
+**────────────────────────────────────────────────────────────────────────**
 
 ## 🎯 Infos complémentaires
 * **Permis** : A et B
