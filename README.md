@@ -5,7 +5,8 @@
 
 
 
-## Data Engineer & Data Analyst | Banque, Finance, Risque & Compliance
+## Data Engineer & Data Analyst
+Banque, Finance, Risque & Compliance
 
 > **20 ans d’expertise bancaire (Privée & Pro) mis au service de la Data.** 
 Je conçois des pipelines automatisés et des predictive models pour transformer des flux de données brutes en leviers de décision stratégiques (Risque, KYC, Fraude).
