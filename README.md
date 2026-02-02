@@ -1,7 +1,7 @@
 # 🚀 Joël TERMONDJIAN
 ## Data Engineer & Data Analyst | Banque, Finance, Risque & Compliance
 
-> **20 ans d'expertise bancaire (Privée & Pro) mis au service de la Data.** > Je conçois des pipelines automatisés et des modèles prédictifs pour transformer des flux de données brutes en leviers de décision stratégiques (Risque, KYC, Fraude).
+> **20 ans d'expertise bancaire (Privée & Pro) mis au service de la Data.** > Je conçois des pipelines automatisés et des predictive models pour transformer des flux de données brutes en leviers de décision stratégiques (Risque, KYC, Fraude).
 
 ---
 
@@ -44,8 +44,8 @@
 
 **Travail réalisé :**
 * **Data Engineering** : Pipeline automatisé d’intégration de données météo en temps réel via API.
-* **Modélisation avancée** : Utilisation du modèle **XGBoost Survival Cox** pour prédire le "Time-to-Event".
-* **Déploiement** : Application Streamlit orientée aide à la décision pour les utilisateurs opérationnels.
+* **Modélisation avancée** : Utilisation du modèle XGBoost Cox Survival Model (Survival Analysis) pour prédire le Time-to-Event.
+* **Déploiement** : Application Streamlit et API REST orientée aide à la décision.
 
 ---
 
@@ -73,7 +73,8 @@
     * Big Data.
 * **Déploiement & MLOps** :
     * Streamlit, MLflow.
-    * Docker (containerisation), Airflow (orchestration de pipelines).
+    * Docker (Containerization), Airflow (pipeline orchestration).
+
     * API REST, Hugging Face Spaces.
     * AWS S3.
 * **Bases de données** : MySQL, MongoDB.
