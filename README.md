@@ -46,7 +46,7 @@ Finance, gestion du risque, conformité réglementaire, KYC
 
 ## 💼 Projets Data Phares
 
-### 🧪 Modélisation de la durée de vie client & risque de défaut - R&D (en cours)
+### 🧪 Modélisation de la durée de vie client & risque de défaut - R&D (en cours) FinTech
 
 **Objectif métier :**  
 Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le scoring de crédit et l’anticipation du risque client en environnement bancaire.
@@ -80,7 +80,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 
 ---
 
-### 🔥 Prévision du risque incendie — Survival Analysis
+### 🔥 Prévision du risque incendie — Survival Analysis (SDIS)
 🔗 [Voir le projet](https://projet-feux.streamlit.app/)
 
 **Objectif métier :** Anticiper le risque incendie en temps réel. Une approche directement transposable en banque au **Scoring de Crédit** et au **Risque de Défaut**.
@@ -92,7 +92,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 
 ---
 
-### 🚗 Get Around — Étude d’impact & déploiement
+### 🚗 Étude d’impact & déploiement - Get Around
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/get_around_dashboard)
 
 * **Analyse** : Évaluation de l’impact des règles produit sur les retards utilisateurs.
@@ -100,7 +100,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 
 ---
 
-### 🚕 Clustering de trajets UBER — New York
+### 🚕 Clustering de trajets - UBER New York
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Clustering_UBER)
 
 * **Objectif** : Identifier des segments d’usage à partir de trajets clients via clustering non supervisé pour optimiser la flotte.
@@ -117,7 +117,7 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 * **Vulgarisation & Data Storytelling** : Capacité à traduire des données complexes et modèles analytiques en recommandations claires pour les clients et décideurs.
 
 
----
+**─────────────────────────────**
 
 ## 🎓 Formation
 
