@@ -1,4 +1,7 @@
 # 🚀 Joël TERMONDJIAN
+
+📎 [LinkedIn](https://www.linkedin.com/in/joel-termondjian/) | 🐙 [GitHub](https://github.com/Djohell13) | ✉️ [joel.termondjian@hotmail.com](mailto:joel.termondjian@hotmail.com)
+
 ## Data Engineer & Data Analyst | Banque, Finance, Risque & Compliance
 
 > **20 ans d’expertise bancaire (Privée & Pro) mis au service de la Data.** 
@@ -6,23 +9,35 @@ Je conçois des pipelines automatisés et des predictive models pour transformer
 
 ---
 
-### 🛠 Stack & Expertise
+### 🛠 Compétences techniques
 
-**Langages & Core**  
-Python, SQL, Pandas, Scikit-learn, XGBoost
+**Langages & Big Data**
+Python, SQL, Spark
 
-**Analyse & Ops**  
-Streamlit, MLflow, Data Visualization
+**Data Analysis & Machine Learning**
+Pandas, NumPy, Scikit-learn, XGBoost
+Exploratory Data Analysis (EDA), feature engineering, clustering
+Modèles supervisés et non supervisés
+Data visualization, analyse statistique
 
-**Infrastructure**  
-API REST, Hugging Face Spaces, Docker, Airflow
+**Data Engineering & MLOps**
+Conception de pipelines data, traitement de données à grande échelle
+MLflow (suivi d’expériences, versioning de modèles)
+Streamlit (applications data interactives)
+Docker (containerisation), Airflow (orchestration de pipelines)
+Déploiement de modèles et services data
 
-**Domaine Métier**  
-Finance, Risque, Conformité, KYC
+**Infrastructure & Déploiement**
+API REST
+Hugging Face Spaces
+Cloud : AWS S3
+Environnements Big Data
 
----
+**Bases de données**
+MySQL (relationnel), MongoDB (NoSQL)
 
-📎 [LinkedIn](https://www.linkedin.com/in/joel-termondjian/) | 🐙 [GitHub](https://github.com/Djohell13) | ✉️ [joel.termondjian@hotmail.com](mailto:joel.termondjian@hotmail.com)
+**Domaines métier**
+Finance, gestion du risque, conformité réglementaire, KYC
 
 ---
 
@@ -85,22 +100,6 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 
 **Statut :**  
 Projet de recherche et développement (Work in Progress) – résultats et déploiement en cours.
-
----
-
-## 🧠 Compétences techniques détaillées
-
-* **Langages** : Python, SQL, Spark
-* **Data & Machine Learning** :
-    * Pandas, NumPy, Scikit-learn, XGBoost.
-    * EDA, feature engineering, clustering, modèles supervisés/non-supervisés.
-    * Big Data.
-* **Déploiement & MLOps** :
-    * Streamlit, MLflow.
-    * Docker (Containerization), Airflow (pipeline orchestration).
-    * API REST, Hugging Face Spaces.
-    * AWS S3.
-* **Bases de données** : MySQL, MongoDB.
 
 ---
 
