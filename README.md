@@ -46,7 +46,7 @@ Finance, gestion du risque, conformité réglementaire, KYC
 
 ## 💼 Projets Data Phares
 
-### 🧪 Modélisation de la durée de vie client & risque de défaut — R&D (en cours)
+### 🧪 Modélisation de la durée de vie client & risque de défaut - R&D (en cours)
 
 **Objectif métier :**  
 Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le scoring de crédit et l’anticipation du risque client en environnement bancaire.
@@ -56,8 +56,9 @@ Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le sco
 * Feature engineering orienté comportement client et historique financier.
 * Évaluation des performances via métriques Time-to-Event.
 
-**Statut :**  
-Projet de recherche et développement (Work in Progress) – résultats et déploiement en cours.
+**Résultat attendu :**  
+* Déterminer un risque de défaillance avec un horizon temporel
+* Projet de recherche et développement (Work in Progress) – résultats et déploiement en cours.
 
 ---
 
