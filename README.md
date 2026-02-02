@@ -90,7 +90,7 @@ Mettre en place un système automatisé pour détecter les fraudes sur les paiem
 ### 🔥 Prévision du risque incendie - Survival Analysis (SDIS)
 🔗 [Voir le projet](https://projet-feux.streamlit.app/)
 
-**Objectif métier :** 
+**Objectif métier :**  
 Anticiper le risque incendie en temps réel. Une approche directement transposable en banque au **Scoring de Crédit** et au **Risque de Défaut**.
 
 **Approche technique :**
