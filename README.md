@@ -8,7 +8,7 @@
 ### 🛠 Stack & Expertise
 * 🔧 **Langages & Core** : Python | SQL | Pandas | Scikit-learn | XGBoost
 * 📊 **Analyse & Ops** : Streamlit | MLflow | Data Visualization
-* ☁️ **Infrastructure** : API | Hugging Face Spaces | Docker | Airflow
+* ☁️ **Infrastructure** : API Rest | Hugging Face Spaces | Docker | Airflow
 * 💼 **Domaine Métier** : Finance | Risque | Conformité | KYC
 
 ---
@@ -85,9 +85,10 @@
 ### La Banque Postale | 2006 — 2025
 **Responsable Clientèle Professionnelle / Conseiller Financier**
 
-* **Gestion du Risque** : Analyse financière, prise de décision basée sur indicateurs chiffrés et conformité KYC.
-* **Expertise Métier** : Forte compréhension des enjeux réglementaires et business.
-* **Vulgarisation** : Capacité à traduire des données complexes en recommandations claires pour les clients.
+* **Gestion du Risque & Data Analysis** : Analyse de données financières, suivi d’indicateurs chiffrés (KPI), aide à la prise de décision et conformité KYC.
+* **Expertise Métier Banque / Finance** : Forte compréhension des enjeux réglementaires, risques clients et performance business.
+* **Vulgarisation & Data Storytelling** : Capacité à traduire des données complexes et modèles analytiques en recommandations claires pour les clients et décideurs.
+
 
 ---
 
