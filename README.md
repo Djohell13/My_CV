@@ -100,6 +100,7 @@ Anticiper le risque incendie en temps réel. Une approche directement transposab
 
 **Résultat :**
    * Modèle avec C-index à 0.809
+   * Mise en place de 5 time to event
    * Dashboard de visualisation du risque de 7 à 180 jours
 
 ---
