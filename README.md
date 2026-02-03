@@ -99,7 +99,7 @@ Anticiper le risque incendie en temps réel. Une approche directement transposab
    * **Déploiement** : Application Streamlit et API REST orientée aide à la décision.
 
 **Résultat :**
-   * Modèle avec C-index à 0.809
+   * Modèle avec **C-index à 0.809**
    * Mise en place de 5 time to event
    * Dashboard de visualisation du risque de 7 à 180 jours
 
@@ -118,7 +118,7 @@ Réduction des frictions opérationnelles et optimisation des revenus. Une appro
    * **Déploiement** : Architecture hybride avec une API REST (FastAPI) pour le service de prédiction et un Dashboard Streamlit pour le pilotage métier.
 
 **Résultat :**
-   * Modèle avec R2 à 0.771
+   * Modèle avec **R2 à 0.771**
    * Optimisation Ops : Identification du seuil de rentabilité optimal pour le délai de sécurité entre deux locations.
    * Performance ML : Modèle de pricing performant déployé via endpoint API.
    * Outil Décisionnel : Dashboard interactif permettant de visualiser le volume de réservations sauvées vs chiffre d'affaires impacté.
