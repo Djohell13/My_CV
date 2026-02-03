@@ -128,7 +128,14 @@ Réduction des frictions opérationnelles et optimisation des revenus. Une appro
 ### 🚕 Clustering de trajets - UBER New York
 🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/Clustering_UBER)
 
-* **Objectif** : Identifier des segments d’usage à partir de trajets clients via clustering non supervisé pour optimiser la flotte.
+**Objectif métier :** Optimisation de la disponibilité de la flotte par l'identification de zones de forte demande (Hotspots).
+
+**Approche technique :** 
+   * **Apprentissage non supervisé** : Algorithmes KMeans & DBSCAN pour le clustering spatial des coordonnées GPS.
+   * **Data Viz** : Cartographie interactive pour visualiser les zones de tension à différentes heures de la journée.
+   * **Déploiement** : Dashboard interactif permettant de visualiser les différents clusters.
+
+**Résultat :** Identification de 8 segments d'usage critiques permettant une meilleure répartition prédictive des chauffeurs.
 
 **────────────────────────────────────────────────────────────────────────**
 
