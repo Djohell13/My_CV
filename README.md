@@ -135,7 +135,8 @@ Réduction des frictions opérationnelles et optimisation des revenus. Une appro
    * **Data Viz** : Cartographie interactive pour visualiser les zones de tension à différentes heures de la journée.
    * **Déploiement** : Dashboard interactif permettant de visualiser les différents clusters.
 
-**Résultat :** Identification de 8 segments d'usage critiques permettant une meilleure répartition prédictive des chauffeurs.
+**Résultat :** 
+   * Identification de 8 segments d'usage critiques permettant une meilleure répartition prédictive des chauffeurs.
 
 **────────────────────────────────────────────────────────────────────────**
 
