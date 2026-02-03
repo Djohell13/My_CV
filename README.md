@@ -136,6 +136,8 @@ Réduction des frictions opérationnelles et optimisation des revenus. Une appro
 
 ### Data Analytics Engineer - Freelance | 2026
 
+---
+
 ### La Banque Postale | 2006 - 2025
 **Responsable Clientèle Professionnelle / Conseiller Financier**
 
