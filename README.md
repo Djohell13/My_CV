@@ -141,7 +141,7 @@ Réduction des frictions opérationnelles et optimisation des revenus. Une appro
 **────────────────────────────────────────────────────────────────────────**
 ##🌍 Engagement & Impact Social
 
-###🎗️ 180 Jours contre le Lymphome — Fondateur & Analyste Engagement
+###🎗️ 180 Jours contre le Lymphome — Fondateur & Analyste Engagement  
 🔗 [Voir le projet](https://www.facebook.com/180jourscontrelelymphome/)
 
 **Objectif :** 
