@@ -139,6 +139,26 @@ Réduction des frictions opérationnelles et optimisation des revenus. Une appro
    * Identification de 8 segments d'usage critiques permettant une meilleure répartition prédictive des chauffeurs.
 
 **────────────────────────────────────────────────────────────────────────**
+##🌍 Engagement & Impact Social
+
+###🎗️ 180 Jours contre le Lymphome — Fondateur & Analyste Engagement
+🔗 [Voir le projet](https://www.facebook.com/180jourscontrelelymphome/)
+
+**Objectif :** 
+   * Sensibiliser au parcours de soin et soutenir la communauté des patients à travers une plateforme caritative créée en période de crise sanitaire (Covid).
+
+**Approche technique & humaine :**
+
+   * **Communication Data-Driven** : Analyse de l'engagement des publications pour optimiser la visibilité des messages de prévention.
+   * **Gestion de communauté** : Modération et interaction avec une audience touchée par la pathologie.
+   * **Storytelling** : Vulgarisation du parcours de soin complexe pour le rendre accessible au plus grand nombre.
+
+**Impact & Résultats** : 
+   * Création d'un espace d'échange actif pour les patients et leurs proches.
+
+**Lien métier** : Développement d'une expertise terrain sur le parcours "Patient", complétant ma maîtrise technique des données de santé/banque par une vision éthique et humaine.
+
+**────────────────────────────────────────────────────────────────────────**
 
 ## 💼 Expérience professionnelle (résumé)
 
