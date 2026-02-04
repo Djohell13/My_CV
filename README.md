@@ -139,7 +139,7 @@ Réduction des frictions opérationnelles et optimisation des revenus. Une appro
    * Identification de 8 segments d'usage critiques permettant une meilleure répartition prédictive des chauffeurs.
 
 **────────────────────────────────────────────────────────────────────────**
-##🌍 Engagement & Impact Social
+## 🌍 Engagement & Impact Social
 
 ### 🎗️ 180 Jours contre le Lymphome — Fondateur & Analyste Engagement  
 🔗 [Voir le projet](https://www.facebook.com/180jourscontrelelymphome/)
