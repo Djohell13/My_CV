@@ -48,6 +48,7 @@ Finance, gestion du risque, conformité réglementaire, KYC.
 ## 💼 Projets Data Phares
 
 ### 🧪 Modélisation de la durée de vie client & risque de défaut - R&D (en cours) FinTech
+🔗 [Voir le projet](https://huggingface.co/spaces/Djohell/business-risk)
 
 **Objectif métier :**  
 Estimer le Time-to-Event (churn, défaut de paiement) afin d’améliorer le scoring de crédit et l’anticipation du risque client en environnement bancaire.
